@@ -4,8 +4,8 @@ For this assignment you are going to create an email, similiar to one of Mr. Bla
 
 ## Submission
 You will submit your email twice.
-1. Make sure all your files are uploaded here on GitHub.
-2. You will email me, ikilpatrick@schools.nyc.gov, your finished email.  
+1. A live link from your IDE (send to the Jupiter) assignment.
+2. An email to me, sent to ikilpatrick@schools.nyc.gov.  
 
 Due Date: TBD
 
@@ -22,6 +22,7 @@ Due Date: TBD
 - How do you make an html email? (More info below)
 - Am I able to send one? Create a basic email and send it to yourself.
 - How do I use html and css to create this type of email? (More info below)
+- Tables, you will need to learn how to make tables.
 
 ## Step 3
 ### Planning
@@ -31,6 +32,7 @@ Due Date: TBD
 - What colors, borders, fonts, etc. are you going to use?  
 - The more time you spend on this step, the easier the next step will be.  
 - Use Figma/Canva to create a prototype of your email, focus on the details and the layout.
+- Prepare all necessary content (images, icons, etc.)
 
 ## Step 4
 ### Coding
