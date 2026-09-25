@@ -1,6 +1,9 @@
 # HTML Email
 
-For this assignment you are going to create an email, similiar to one of Mr. Blank's emails that he sends on a regular basis, just plain text and no style. As a suggestion, a Halloween themed email might be fun. 💀👻🎃🦇
+For this assignment you are going to create an email, similiar to one of Mr. Blank's emails that he sends on a regular basis, just plain text and no style.  
+As a suggestion, a Halloween themed email might be fun. 💀👻🎃🦇  
+Or...  
+You can make any sort of business email that interests you.
 
 ## Submission
 You will submit your email twice.
@@ -13,16 +16,16 @@ Due Date: TBD
 ### Research
 - What is an html email?
 - What do they look like? (You probably recieve multiple a day, check your inbox)
-- What are similar or common traits you see across various emails?
-- What features do they have?
-- What is the "goal" of each email you looked at? **The goal is the key!**
+- What are similar or common traits you see across various emails? Colors? Layouts? etc.
+- What features do they have? Clickable links, social media in the footer, etc.
+- What is the "goal" of each email you looked at? **The goal is the key!** What do you want the user to click on? Why?
 
 ## Step 2
 ### Learning
 - How do you make an html email? (More info below)
 - Am I able to send one? Create a basic email and send it to yourself.
 - How do I use html and css to create this type of email? (More info below)
-- Tables, you will need to learn how to make tables.
+- Tables, you will need to learn how to make tables. Sorry `<div>` fan club!
 
 ## Step 3
 ### Planning
@@ -61,8 +64,8 @@ Example:
 [More information here](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
 
 ## Tried and tested on all major email clients
-
-Tested on mobile, desktop and web.
+*You don't have to go crazy with checking every email client, but that is something you would want to make sure is working.*   
+At a minimum: Tested on mobile, desktop and web.
 
 <img width="1424" alt="Tested on Email Clients" src="https://github.com/leemunroe/responsive-html-email-template/assets/15963/a5920027-f27d-41aa-bcbe-a3693f9d3277">
 
